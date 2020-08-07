@@ -13,7 +13,8 @@ Once you get the frames, you should follow the below template -
 As the name suggests, background subtraction is the process of separating
 out foreground objects from the background in a sequence of video frames.
 
-![alt text](https://github.com/Sharut/Sharut/blob/master/Images/fig1?raw=true)
+![alt text](https://github.com/Sharut/1-Medial-axis-detection-of-Moving-Objects/blob/master/Images/fig1.png?raw=true)
+
 
 
 ## 1.2 Cleaning of image
