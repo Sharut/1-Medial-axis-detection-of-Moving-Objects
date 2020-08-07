@@ -31,5 +31,7 @@ to get an image of the edges.
 ## 1.4 Medial axis identification
 After getting the straight edges, you should compute the medial axis of the
 object and highlight it on the original frame.
+
+
 ![alt text](https://github.com/Sharut/1-Medial-axis-detection-of-Moving-Objects/blob/master/Images/fig3.png?raw=true)
 ![alt text](https://github.com/Sharut/1-Medial-axis-detection-of-Moving-Objects/blob/master/Images/fig4.png?raw=true)
